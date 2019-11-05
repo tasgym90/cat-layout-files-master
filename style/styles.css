@@ -1,4 +1,4 @@
-* {
+head {
   box-sizing: border-box;
     }
 
@@ -6,35 +6,34 @@ header {
   background-color: #33a6cc;
   position: relative;
   padding: 2em 4em;
-  height: 10rem;
+  height: 6rem;
   width: 100%;
   overflow: auto;
     }
 
 h1 {
   color: white;
-  size: 500px;
-  font: sans-serif;
+  font-size: 40px;
+  font-family: sans-serif;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 header p {
   color: white;
-  size: 800px;
-  font: sans-serif;
+  font-size: 15px;
+  font-family: sans-serif;
   font-style: italic;
 }
 
 .section-header {
   color: #33a6cc;
-  style: bold;
 
 }
 
 h3 {
   color: #33a6cc;
-  size: 600px;
+  font-size: 20px;
 
 }
 
@@ -59,7 +58,7 @@ li a {
 }
 
 section {
-  padding: 10rem;
+  padding: 5rem;
   width: 70%
 }
 
